@@ -5,4 +5,20 @@
     font-size: 48px;
     font-weight: bold;
     line-height: 1;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.p{
+    font-size: 18px;
+    line-height: 1;
+    margin-top: 80px;
+}
+.article_img{
+    width: 100%;    
+}
+.firma{
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1;
+    margin-top: 35px;
 }
